@@ -1,11 +1,13 @@
 //**************************************************************
 //Program 4--Compute Your Grade
 //Jacob Wierman		Date: 10/27/2014
-//Session 0001
+//Session 0002
 //About Program: Program uses user-input of class grading
 //				 parameters and theie own scores to compute
 //				 their grade. These paramenters are laid out
 //				 in the assignment.
+//				 This version does not have a letter grade
+//				 output feature.
 //**************************************************************
 
 #include <iostream>
